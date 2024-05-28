@@ -1,0 +1,42 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/download__5_-removebg-preview.png"
+  },
+  {
+    "title": "C++",
+    "imageSrc": "skills/download__27_-removebg-preview.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/download__29_-removebg-preview.png"
+  },
+  {
+    "title": "Git",
+    "imageSrc": "skills/download__30_-removebg-preview.png"
+  },
+  {
+    "title": "Tensorflow",
+    "imageSrc": "skills/download__28_-removebg-preview.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }
+]

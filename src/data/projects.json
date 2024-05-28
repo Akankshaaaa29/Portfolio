@@ -1,0 +1,25 @@
+[
+  {
+    "title": "AI Mock Interviewer",
+      "imageSrc": "projects/Screenshot 2024-05-28 192719.png",
+      "description": "Full-stack AI-powered mock interview platform designed to enhance interview preparation experiences using the state-of-the-art OpenAI GPT-3.5 Turbo API.",
+      "skills": ["React", "Python", "Node", "MySQL"]
+    },
+    
+  {
+    "title": "Cancer Detection Website",
+    "imageSrc": "projects/Screenshot 2024-05-28 192302.png",
+    "description": "A website for early detection of brain tumors, leveraging DenseUnet architecture in TensorFlow.",
+    "skills": ["Python", "TensorFlow", "Streamlit", "Computer Vision"],
+    "demo": "https://gdsccancer-detection-pqw49wfnka3sosnxhffx5k.streamlit.app/",
+    "source": "https://github.com/Akankshaaaa29/GDSC_Cancer-detection"
+  },
+  {
+    "title": "Multiple Disease Predictor",
+    "imageSrc": "projects/Screenshot 2024-05-28 192358.png",
+    "description": "A multiple disease predictor system which detects diseases like  COVID-19, heart disease, and lung disease using machine learning algorithms",
+    "skills": ["Python", "Streamlit", "Matplotlib","Numpy"],
+    "demo": "https://multiplediseasepredictor.streamlit.app/",
+    "source": "https://github.com/Akankshaaaa29/Multiple_disease_predictor"
+  }
+]
